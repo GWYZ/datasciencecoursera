@@ -1,1 +1,1 @@
-##DataScien course on coursera
+##DataSciene course on coursera
